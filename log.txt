@@ -1,5 +1,0 @@
- 0picture.png,1段階拡大,1picture.png
- 1picture.png,2段階拡大,2picture.png
- 2picture.png,1段階拡大,1picture.png
- 0picture.png,1段階縮小,-1picture.png
- 0picture.png,1段階拡大,1picture.png
