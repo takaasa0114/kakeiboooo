@@ -1,5 +1,0 @@
-name=input("あなたの名前は")
-weight=float(input("体重を入力(kg)"))
-height=float(input("身長を入力(m)"))
-bmi=float(weight/height**2)
-print(str(name)+"さんのBMIは"+str(bmi)+"です")

@@ -1,5 +1,5 @@
 dectionary={"1月":"B","2月":"C","3月":"D","4月":"E","5月":"F","6月":"G","7月":"H","8月":"I","9月":"J","10月":"K","11月":"L","12月":"M"}
-import numpy as np
+
 import pandas as pd
 import streamlit as st
 import openpyxl as op
